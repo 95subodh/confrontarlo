@@ -1,0 +1,1576 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- If you think our code is worth reading, why not join our team. Write to KickSomeAss[at]findyogi[dot]com.
+If you want to steal some data from here, rather ask us for it - write to awesomeness[at]findyogi[dot]com -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+				<link rel="shortcut icon" href="http://www.findyogi.com/images/favicon.ico" type="image/x-icon" />
+			<link rel="stylesheet" type="text/css" href="http://www.findyogi.com/css/stylevmin0.0.3.css" />
+
+		<link rel="stylesheet" href="http://www.findyogi.com/css/jquery.slider.min.css" type="text/css"/>
+		<link rel="stylesheet" type="text/css" href="http://www.findyogi.com/css/jsliderv2.css" />
+		<link rel="author" href="https://plus.google.com/105559518111354713704" />		
+		<script type="text/javascript" src="http://www.findyogi.com/scripts/jq1.7.1.js"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="language" content="english" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+				<meta name="description" content=" FindYogi user account settings "/>
+		
+		<title>Account Settings - FindYogi</title>
+		<meta name="google-site-verification" content="qcdadScHd-OWxGC_CdCOnLHsG3RmIIrUSUOUFakWhAg" />
+                <meta name="og_title" property="og:title" content="Account Settings - FindYogi"/>
+		<meta name="twitter:title" content="Account Settings - FindYogi">
+				<meta name="og_url" property="og:url" content=""/>
+		<meta name="og_type" property="og:type" content="website"/>
+					<meta name="twitter:card" content="summary">
+			<meta name="twitter:site" content="@FindYogi_IN" />
+			<meta name="twitter:image:src" content="http://www.findyogi.com/images/fy.png">
+			<meta name="og_image" property="og:image" content="http://www.findyogi.com/images/fy.png"/>
+				<meta name="og_site_name" property="og:site_name" content="FindYogi"/>
+		<meta name="og_description" property="og:description" content=" FindYogi user account settings "/>
+		<meta name="twitter:description" content=" FindYogi user account settings ">
+		<meta property="fb:admins" content="100000030204019"/>
+		<meta property="fb:id" content="233317093413513"/>
+				
+		
+			</head>
+	
+	<body id="res" style="display:block;min-width:280px;background-color:#f7fcfc">
+		<span class='notibac'></span>
+	<script type="text/javascript">
+
+		 
+
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			  ga('create', 'UA-36768298-3','findyogi.com');
+			  ga('require', 'displayfeatures');
+			  ga('send', 'pageview');
+	</script>
+	
+		<div class="bluhd">
+
+	<div class="bludata">
+		<a href="/"> <img class="logg" src="/images/fyi-logo.png" alt="FindYogi" /></a>
+		<div class="srch">
+			<form target="_top" id='search-form' method="get" class="srfrm" action="/search">
+				<input type="text" id='search-text' autocomplete="off" placeholder="Search Here" name="query"/>
+				<button class="orange srb" id='search-button' type="submit" value="Search"/>Search</button>
+			</form>
+		</div>
+
+				<span class="lnwrp">
+        	<span class="logiin">
+				<span class="btk"><span class="pname">Subodh</span></span>        	
+					        	<span class="tpic"><img src="/avatar/b946a6.jpg" width="50" height="50" class="guy" alt=""></span>
+	            				<span class="downt"></span>
+			</span>
+			<SPAN ID="qa-np-nc-marker" CLASS="qa-np-nc-marker-position-handle qa-np-nc-marker-inactive">
+	<A TITLE="You received 0 notification" href="javascript:void(0);">
+	</A>
+</SPAN>
+<DIV ID="qa-np-nc-window" STYLE="display:none;" CLASS="qa-np-nc-window-position-handle">
+	<SPAN ID="qa-np-nc-window-tip"></SPAN>
+	<DIV ID="qa-np-nc-window-header">
+	<A CLASS="qa-np-nc-close-link" HREF="#" style="float:right;">close</A>
+		Notification
+	</DIV>
+	<DIV ID="qa-np-nc-window-content">
+		<DIV STYLE="clear:both;"></DIV>
+	</DIV>
+	<DIV ID="qa-np-nc-window-footer">
+	<A CLASS="qa-np-nc-more-link" HREF="http://www.findyogi.com/q/notifications">read more</A>
+	</DIV>
+</DIV>
+		</span>
+			</div>
+</div>
+<div class="nusrch">
+	<form action="" class="nusrfrm">
+		<input type="text" id="searchAuto" placeholder="Search Here">
+		<button class="" id="submitSearch"></button>
+	</form>
+</div>
+<div class="newcat" style="position: relative;top:0px;">
+<div class="catdet">
+		<ul style="width:100%;">
+			<li>
+				<a href="/mobiles" class="ctic mo" onClick="ga('send','event', 'nav bar', 'click', 'mobiles');" ><span class="common_sprite common_head_mobile_icon"></span>Mobiles</a>
+				<div class="ctwp"> 
+					<a href="/mobiles" class="titct" onClick="ga('send','event', 'nav heading', 'click', 'mobiles');">Mobiles</a>
+					<div class="tishead">
+						<span class="navlnhwrp">
+							<span class="pop-title"><a href="/mobiles"> All Mobiles </a></span>
+							<span class="h2replace navbar_div_subtitle"> Brands </span>
+						</span>
+							<div class="brand-wrap1">
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/apple" class="cat-brandsnewhead">Apple</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/nokia" class="cat-brandsnewhead">Nokia</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/samsung" class="cat-brandsnewhead">Samsung</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/htc" class="cat-brandsnewhead">HTC</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/sony" class="cat-brandsnewhead">Sony</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/micromax" class="cat-brandsnewhead">Micromax</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/lg" class="cat-brandsnewhead">LG</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/blackberry" class="cat-brandsnewhead">Blackberry</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/lava" class="cat-brandsnewhead">Lava</a></div>
+							</div>
+							<div class="brand-wrap1" style="float:right;">
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/acer" class="cat-brandsnewhead">Acer</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/karbonn" class="cat-brandsnewhead">Karbonn</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/lenovo" class="cat-brandsnewhead">Lenovo</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/gionee" class="cat-brandsnewhead">Gionee</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/motorola" class="cat-brandsnewhead">Motorola</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/panasonic" class="cat-brandsnewhead">Panasonic</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/huawei" class="cat-brandsnewhead">Huawei</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/spice" class="cat-brandsnewhead">Spice</a></div>
+								<div class="lnk-wrp-full"><a href="http://www.findyogi.com/mobiles/iball" class="cat-brandsnewhead">iBall</a></div>
+							</div>
+							<div class="lnk-wrp-third"><a href="http://www.findyogi.com/mobiles" class="brand-bottom">view all &gt&gt</a></div>
+					</div>		
+					<div class="popular-prodnew1">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Categories</span>
+						<div class="lnk-wrp-full "><a href="/mobiles/lists/best-buy-mobiles-in-india" class="cat-brandsnewhead">Best Buy Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/recent-change" class="cat-brandsnewhead">Latest Mobiles</a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/os_android/f_price_0:0_page_0" class="cat-brandsnewhead">Android Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/apple" class="cat-brandsnewhead">Apple Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/os_windows/f_price_0:0_page_0" class="cat-brandsnewhead">Windows Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/search?query=nokia+lumia" class="cat-brandsnewhead">Nokia Lumia Phones</a></div>
+						<div class="popborderbottom"></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Features</span>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/simtype_cdma/f_price_0:0_page_0" class="cat-brandsnewhead">CDMA Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/simcount_dual/f_price_0:0_page_0" class="cat-brandsnewhead">Dual Sim Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/connectivity_3g/f_price_0:0_page_0" class="cat-brandsnewhead">3G Mobiles </a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/others_wifitetr/f_price_0:0_page_0" class="cat-brandsnewhead">Wifi Mobiles</a></div>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/keypad_qwerty/f_price_0:0_page_0" class="cat-brandsnewhead">Qwerty Keypad Mobiles</a></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Prices</span>
+						<div class="lnk-wrp-full "><a href="/mobiles/allBrands/allSpecs/f_price_0:10000_page_0" class="cat-brandsnewhead">Mobiles Under Rs.10,000</a></div>
+						 <div class="lnk-wrp-full "><a href="/mobiles/allBrands/allSpecs/f_price_0:20000_page_0" class="cat-brandsnewhead">Mobiles Under Rs.20,000</a></div>
+						 <div class="lnk-wrp-full "><a href="/mobiles/allBrands/allSpecs/f_price_0:30000_page_0" class="cat-brandsnewhead">Mobiles Under Rs.30,000</a></div>
+						 <div class="lnk-wrp-full "><a href="/mobiles/allBrands/allSpecs/f_price_30000:0_page_0" class="cat-brandsnewhead">Mobiles Above Rs.30,000</a></div>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="/tablets" class="ctic ta" onClick="ga('send','event', 'nav bar', 'click', 'tablets');" ><span class="common_sprite common_head_tablet_icon"></span>Tablets</a>
+				<div class="ctwp">
+					<a href="/tablets" class="titct" onClick="ga('send','event', 'nav heading', 'click', 'tablets');">Tablets</a>
+					<div class="tishead">
+						<span class="navlnhwrp">
+							<span class="h2replace navbar_div_subtitle" style="min-width:115px"> Brands </span>
+							<span style="pop-title"><a href="/tablets">All Tablets</a> </span>
+						</span>							
+						<div class="brand-wrap1">
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/apple" class="cat-brandsnewhead">Apple</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/samsung" class="cat-brandsnewhead">Samsung</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/lenovo" class="cat-brandsnewhead">Lenovo</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/acer" class="cat-brandsnewhead">Acer</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/sony" class="cat-brandsnewhead">Sony</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/lava" class="cat-brandsnewhead">Lava</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/micromax" class="cat-brandsnewhead">Micromax</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/karbonn" class="cat-brandsnewhead">Karbonn</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/blackberry" class="cat-brandsnewhead">Blackberry</a></div>
+						</div>
+						<div class="brand-wrap1" style="float:right;">
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/hp" class="cat-brandsnewhead">HP</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/bsnl" class="cat-brandsnewhead">BSNL</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/celkon" class="cat-brandsnewhead">Celkon</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/spice" class="cat-brandsnewhead">Spice</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/adcom" class="cat-brandsnewhead">Adcom</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/kindle" class="cat-brandsnewhead">Kindle</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/iball" class="cat-brandsnewhead">iBall</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/zen" class="cat-brandsnewhead">Zen</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/tablets/simmtronics" class="cat-brandsnewhead">Simmtronics</a></div>
+						</div>
+						<div class="lnk-wrp-third"><a href="http://www.findyogi.com/tablets" class="brand-bottom">view all &gt&gt</a></div>						
+					</div>
+					<div class="popular-prodnew1">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Categories</span>
+						<div class="lnk-wrp-full "><a href="/tablets/lists/top-5-tablets-in-india" class="cat-brandsnewhead">Best Buy Tablets</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/recent-change" class="cat-brandsnewhead">Latest Tablets </a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/os_android/f_price_0:0_page_0" class="cat-brandsnewhead">Android Tablets</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/apple" class="cat-brandsnewhead">Apple iPads</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/os_windows/f_price_0:0_page_0" class="cat-brandsnewhead">Windows Tablets</a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/connectivity_vcall/f_price_0:0_page_0" class="cat-brandsnewhead">Tablets With Calling Facility</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/connectivity_simsupport/f_price_0:0_page_0" class="cat-brandsnewhead">Tablets with Sim support For Internet</a></div>
+						<div class="popborderbottom"></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Screen Size</span>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/display_1:7/f_price_0:0_page_0" class="cat-brandsnewhead">7 inch or smaller tablets</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/display_7:8/f_price_0:0_page_0" class="cat-brandsnewhead">7-8 inch tablets</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/display_8:10/f_price_0:0_page_0" class="cat-brandsnewhead">8-10 inch tablets</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/display_10:0/f_price_0:0_page_0" class="cat-brandsnewhead">10 inch+ tablets</a></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Prices</span>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/allSpecs/f_price_0:10000_page_0" class="cat-brandsnewhead">Tablets Under Rs.10,000</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/allSpecs/f_price_0:20000_page_0" class="cat-brandsnewhead">Tablets Under Rs.20,000</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/allSpecs/f_price_0:30000_page_0" class="cat-brandsnewhead">Tablets Under Rs.30,000</a></div>
+						<div class="lnk-wrp-full "><a href="/tablets/allBrands/allSpecs/f_price_30000:0_page_0" class="cat-brandsnewhead">Tablets Above Rs.30,000</a></div>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="/laptops" class=" ctic la" onClick="ga('send','event', 'nav bar', 'click', 'laptops');" ><span class="common_sprite common_head_laptop_icon"></span>Laptops</a>
+				<div class="ctwp">
+					<a href="/laptops" class="titct" onClick="ga('send','event', 'nav heading', 'click', 'laptops');">Laptops</a>
+					<div class="tishead">
+						<span class="navlnhwrp">
+							<span class="h2replace navbar_div_subtitle"> Brands </span>
+							<span class="pop-title"><a href="/laptops"> All Laptops </a></span>
+						</span>
+						<div class="brand-wrap1">
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/apple" class="cat-brandsnewhead">Apple</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/dell" class="cat-brandsnewhead">Dell</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/sony" class="cat-brandsnewhead">Sony</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/hp" class="cat-brandsnewhead">HP</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/wipro" class="cat-brandsnewhead">Wipro</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/acer" class="cat-brandsnewhead">Acer</a></div>
+						</div>
+						<div class="brand-wrap1" style="float:right;">
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/fujitsu" class="cat-brandsnewhead">Fujitsu</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/hcl" class="cat-brandsnewhead">HCL</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/lenovo" class="cat-brandsnewhead">Lenovo</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/asus" class="cat-brandsnewhead">Asus</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/samsung" class="cat-brandsnewhead">Samsung</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/laptops/toshiba" class="cat-brandsnewhead">Toshiba</a></div>
+						</div>
+						<div class="lnk-wrp-third"><a href="http://www.findyogi.com/laptops" class="brand-bottom">view all &gt&gt</a></div>
+					</div>
+					<div class="popular-prodnew1">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Categories</span>
+						<div class="lnk-wrp-full "><a href="/laptops/lists/best-buy-laptops-in-india" class="cat-brandsnewhead">Best Buy Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/recent-change" class="cat-brandsnewhead">Latest Laptops</a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_60000:0_page_0" class="cat-brandsnewhead">High end Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_20000:40000_page_0" class="cat-brandsnewhead">Everyday Use Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/apple" class="cat-brandsnewhead">Apple Macbooks</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/os_chromeos/f_price_0:0_page_0" class="cat-brandsnewhead">Chromebook</a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/ram_4:0/f_price_0:0_page_0" class="cat-brandsnewhead">4GB+ RAM Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/scr_14:15/f_price_0:0_page_0" class="cat-brandsnewhead">14 – 15 inch screen Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/scr_15:0/f_price_0:0_page_0" class="cat-brandsnewhead">Above 15 inch screen Laptops</a></div>
+						<div class="popborderbottom"></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Features</span>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/cores_dualcore/f_price_0:0_page_0" class="cat-brandsnewhead">Dual Core Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/cores_quadcore/f_price_0:0_page_0" class="cat-brandsnewhead">Quad Core Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/ptype_12:13:14:15:16/f_price_0:0_page_0" class="cat-brandsnewhead">Intel Core i3 Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/ptype_17:18:19:20:21/f_price_0:0_page_0" class="cat-brandsnewhead">Intel Core i5 Laptops</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/ptype_22:23:24:25:26/f_price_0:0_page_0" class="cat-brandsnewhead">Intel Core i7 Laptops</a></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Prices</span>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_0:20000_page_0" class="cat-brandsnewhead">Laptops Under Rs.20,000</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_20000:30000_page_0" class="cat-brandsnewhead">Laptops Under Rs.30,000</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_30000:40000_page_0" class="cat-brandsnewhead">Laptops Under Rs.40,000</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_40000:50000_page_0" class="cat-brandsnewhead">Laptops Under Rs.50,000</a></div>
+						<div class="lnk-wrp-full "><a href="/laptops/allBrands/allSpecs/f_price_50000:0_page_0" class="cat-brandsnewhead">Laptops Above Rs.50,000</a></div>
+					</div>
+				</div>
+			</li>
+			<li>
+				<a href="/cameras" class=" ctic ca" onClick="ga('send','event', 'nav bar', 'click', 'cameras');"><span class="common_sprite common_head_camera_icon"></span>Cameras</a>
+				<div class="ctwp">
+					<a href="/cameras" class="titct" onClick="ga('send','event', 'nav heading', 'click', 'cameras');">Cameras</a>
+					<div class="tishead">
+						<span class="navlnhwrp">
+							<span class="h2replace navbar_div_subtitle"> Brands </span>
+							<span class="pop-title"><a href="/cameras"> All Cameras </a></span>
+						</span>
+						<div class="brand-wrap1">										
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/canon" class="cat-brandsnewhead">Canon</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/nikon" class="cat-brandsnewhead">Nikon</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/panasonic" class="cat-brandsnewhead">Panasonic</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/aiptek" class="cat-brandsnewhead">Aiptek</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/jvc" class="cat-brandsnewhead">JVC</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/sony" class="cat-brandsnewhead">Sony</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/samsung" class="cat-brandsnewhead">Samsung</a></div>
+						</div>
+						<div class="brand-wrap1" style="float:right;">
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/fujifilm" class="cat-brandsnewhead">Fujitsu</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/kodak" class="cat-brandsnewhead">Kodak</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/rollei" class="cat-brandsnewhead">Rollei</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/fujifilm" class="cat-brandsnewhead">Fujifilm</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/olympus" class="cat-brandsnewhead">Olympus</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/casio" class="cat-brandsnewhead">Casio</a></div>
+							<div class="lnk-wrp-full"><a href="http://www.findyogi.com/cameras/benq" class="cat-brandsnewhead">Benq</a></div>
+						</div>
+						<div class="lnk-wrp-third"><a href="http://www.findyogi.com/cameras" class="brand-bottom">view all &gt&gt</a></div>						
+					</div>
+					<div class="popular-prodnew1">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Categories</span>
+						<div class="lnk-wrp-full "><a href="/cameras/lists/best-buy-cameras-in-india" class="cat-brandsnewhead">Best Buy Cameras</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/recent-change" class="cat-brandsnewhead">Latest Cameras</a></div>
+						<div class="popborderbottom"></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/ctype_slr/f_price_0:0_page_0" class="cat-brandsnewhead">DSLR Cameras</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/ctype_pointandshoot/f_price_0:0_page_0" class="cat-brandsnewhead">Point and Shoot Cameras</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/ctype_mirrorless/f_price_0:0_page_0" class="cat-brandsnewhead">Mirrorless Cameras</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/ctype_camcorder/f_price_0:0_page_0" class="cat-brandsnewhead">Camcorders</a></div>
+						<div class="popborderbottom"></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Features</span>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/cam_13:0/f_price_0:0_page_0" class="cat-brandsnewhead">13MP+  Cameras</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/cam_20:0/f_price_0:0_page_0" class="cat-brandsnewhead">20MP+  Cameras</a></div>
+					</div>
+					<div class="popular-prodnew">
+						<span class="h2replace navbar_div_subtitle" style="font-size:14px;">Prices</span>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/allSpecs/f_price_0:5000_page_0" class="cat-brandsnewhead">Cameras Under Rs.5,000</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/allSpecs/f_price_5000:10000_page_0" class="cat-brandsnewhead">Cameras Under Rs.10,000</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/allSpecs/f_price_10000:20000_page_0" class="cat-brandsnewhead">Cameras Under Rs.20,000</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/allSpecs/f_price_20000:40000_page_0" class="cat-brandsnewhead">Cameras Under Rs.40,000</a></div>
+						<div class="lnk-wrp-full "><a href="/cameras/allBrands/allSpecs/f_price_40000:0_page_0" class="cat-brandsnewhead">Cameras Above Rs.40,000</a></div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<a href="/q" class="qu">Need Help? Ask quesiton to expert</a>
+</div>
+<!-- new Design for this -->
+<!-- 	<div style="width:100%;display:none;">
+		<div class="uninotificwr">
+			<span class="noticmn hp" onClick="ga('send','event', 'Header', 'click', 'Clicked on text in noticebar');" >
+				Your Email Id is not verified, please verify it.
+			</span>
+			<div class="clnoti" onClick="ga('send','event', 'Header', 'click', 'closed the noticebar');">X</div>
+		</div>
+	</div> -->
+<div class="chota" style="width:100%;display:none";>
+	<div class="chotainw">
+		<span class="hidcatul">
+			<span class="vispart"></span>
+		</span>
+		<div class="srch">
+			<form target="_top" method="get" class="srfrm" action="/search">
+				<input type="text" autocomplete="off" placeholder="Search Here" name="query" />
+				<button class="orange srb" type="submit" value="Search">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+			 <script type="text/javascript">
+      if (window.location.hash && window.location.hash == '#_=_') {
+        if (window.history && history.pushState) {
+            window.history.pushState("", document.title, window.location.pathname);
+        } else {
+            var scroll = {
+                top: document.body.scrollTop,
+                left: document.body.scrollLeft
+            };
+            window.location.hash = '';
+            document.body.scrollTop = scroll.top ;
+            document.body.scrollLeft = scroll.left ;
+        }
+    }
+
+</script> 	
+			<div class="acount-item">
+				<div class="tip"></div>
+										<div class="aftlog">
+												<a href="http://www.findyogi.com/profile/subodh-yadav-b946a6" class=" sbtn prf"><span class="common_sprite profile_icon" ></span> Profile</a>						
+						<a href="/accountsettings" class="stw sbtn acntset"><span class="common_sprite accountsetting_icon" ></span>  Account Settings</a>
+						<a href="/logout" class="stw sbtn off"><span class="common_sprite logout_icon" ></span>Log out</a>
+					</div>
+					
+					</div>
+
+  
+
+			<div class="substitute"></div>
+			<script type="text/javascript">
+			(function(){var po=document.createElement("script");po.type="text/javascript";po.async=true;po.src="https://apis.google.com/js/plusone.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(po,s)})();
+(function(a){a.fn.bottom=function(b){var c={proximity:0};var b=a.extend(c,b);return this.each(function(){var d=this;a(d).bind("scroll",function(){if(d==window){scrollHeight=a(document).height()}else{scrollHeight=a(d)[0].scrollHeight}scrollPosition=a(d).height()+a(d).scrollTop();if((scrollHeight-scrollPosition)/scrollHeight<=b.proximity){a(d).trigger("bottom")}});return false})}})(jQuery);
+/*! perfect-scrollbar - v0.4.4
+* http://noraesae.github.com/perfect-scrollbar/
+* Copyright (c) 2013 HyeonJe Jun; Licensed MIT */
+"use strict";(function(e){var t={wheelSpeed:10,wheelPropagation:!1,minScrollbarLength:null};e.fn.perfectScrollbar=function(o,r){return this.each(function(){var n=e.extend(!0,{},t),l=e(this);if("object"==typeof o?e.extend(!0,n,o):r=o,"update"===r)return l.data("perfect-scrollbar-update")&&l.data("perfect-scrollbar-update")(),l;if("destroy"===r)return l.data("perfect-scrollbar-destroy")&&l.data("perfect-scrollbar-destroy")(),l;if(l.data("perfect-scrollbar"))return l.data("perfect-scrollbar");l.addClass("ps-container");var s,c,a,i,p,u,f,d,h=e("<div class='ps-scrollbar-x'></div>").appendTo(l),v=e("<div class='ps-scrollbar-y'></div>").appendTo(l),g=parseInt(h.css("bottom"),10),m=parseInt(v.css("right"),10),b=function(){var e=parseInt(d*(i-c)/(c-f),10);l.scrollTop(e),h.css({bottom:g-e})},w=function(){var e=parseInt(u*(a-s)/(s-p),10);l.scrollLeft(e),v.css({right:m-e})},T=function(e){return n.minScrollbarLength&&(e=Math.max(e,n.minScrollbarLength)),e},L=function(){h.css({left:u+l.scrollLeft(),bottom:g-l.scrollTop(),width:p}),v.css({top:d+l.scrollTop(),right:m-l.scrollLeft(),height:f})},I=function(){s=l.width(),c=l.height(),a=l.prop("scrollWidth"),i=l.prop("scrollHeight"),a>s?(p=T(parseInt(s*s/a,10)),u=parseInt(l.scrollLeft()*(s-p)/(a-s),10)):(p=0,u=0,l.scrollLeft(0)),i>c?(f=T(parseInt(c*c/i,10)),d=parseInt(l.scrollTop()*(c-f)/(i-c),10)):(f=0,d=0,l.scrollTop(0)),d>=c-f&&(d=c-f),u>=s-p&&(u=s-p),L()},D=function(e,t){var o=e+t,r=s-p;u=0>o?0:o>r?r:o,h.css({left:u+l.scrollLeft()})},C=function(e,t){var o=e+t,r=c-f;d=0>o?0:o>r?r:o,v.css({top:d+l.scrollTop()})},y=function(){var t,o;h.bind("mousedown.perfect-scroll",function(e){o=e.pageX,t=h.position().left,h.addClass("in-scrolling"),e.stopPropagation(),e.preventDefault()}),e(document).bind("mousemove.perfect-scroll",function(e){h.hasClass("in-scrolling")&&(w(),D(t,e.pageX-o),e.stopPropagation(),e.preventDefault())}),e(document).bind("mouseup.perfect-scroll",function(){h.hasClass("in-scrolling")&&h.removeClass("in-scrolling")}),t=o=null},x=function(){var t,o;v.bind("mousedown.perfect-scroll",function(e){o=e.pageY,t=v.position().top,v.addClass("in-scrolling"),e.stopPropagation(),e.preventDefault()}),e(document).bind("mousemove.perfect-scroll",function(e){v.hasClass("in-scrolling")&&(b(),C(t,e.pageY-o),e.stopPropagation(),e.preventDefault())}),e(document).bind("mouseup.perfect-scroll",function(){v.hasClass("in-scrolling")&&v.removeClass("in-scrolling")}),t=o=null},P=function(){var e=function(e,t){var o=l.scrollTop();if(0===o&&t>0&&0===e)return!n.wheelPropagation;if(o>=i-c&&0>t&&0===e)return!n.wheelPropagation;var r=l.scrollLeft();return 0===r&&0>e&&0===t?!n.wheelPropagation:r>=a-s&&e>0&&0===t?!n.wheelPropagation:!0},t=!1;l.bind("mousewheel.perfect-scroll",function(o,r,s,c){l.scrollTop(l.scrollTop()-c*n.wheelSpeed),l.scrollLeft(l.scrollLeft()+s*n.wheelSpeed),I(),t=e(s,c),t&&o.preventDefault()}),l.bind("MozMousePixelScroll.perfect-scroll",function(e){t&&e.preventDefault()})},X=function(){var t=function(e,t){l.scrollTop(l.scrollTop()-t),l.scrollLeft(l.scrollLeft()-e),I()},o={},r=0,n={},s=null,c=!1;e(window).bind("touchstart.perfect-scroll",function(){c=!0}),e(window).bind("touchend.perfect-scroll",function(){c=!1}),l.bind("touchstart.perfect-scroll",function(e){var t=e.originalEvent.targetTouches[0];o.pageX=t.pageX,o.pageY=t.pageY,r=(new Date).getTime(),null!==s&&clearInterval(s),e.stopPropagation()}),l.bind("touchmove.perfect-scroll",function(e){if(!c&&1===e.originalEvent.targetTouches.length){var l=e.originalEvent.targetTouches[0],s={};s.pageX=l.pageX,s.pageY=l.pageY;var a=s.pageX-o.pageX,i=s.pageY-o.pageY;t(a,i),o=s;var p=(new Date).getTime();n.x=a/(p-r),n.y=i/(p-r),r=p,e.preventDefault()}}),l.bind("touchend.perfect-scroll",function(){clearInterval(s),s=setInterval(function(){return.01>Math.abs(n.x)&&.01>Math.abs(n.y)?(clearInterval(s),void 0):(t(30*n.x,30*n.y),n.x*=.8,n.y*=.8,void 0)},10)})},S=function(){l.unbind(".perfect-scroll"),e(window).unbind(".perfect-scroll"),e(document).unbind(".perfect-scroll"),l.data("perfect-scrollbar",null),l.data("perfect-scrollbar-update",null),l.data("perfect-scrollbar-destroy",null),h.remove(),v.remove(),h=v=s=c=a=i=p=u=g=f=d=m=null},Y=function(t){l.addClass("ie").addClass("ie"+t);var o=function(){var t=function(){e(this).addClass("hover")},o=function(){e(this).removeClass("hover")};l.bind("mouseenter.perfect-scroll",t).bind("mouseleave.perfect-scroll",o),h.bind("mouseenter.perfect-scroll",t).bind("mouseleave.perfect-scroll",o),v.bind("mouseenter.perfect-scroll",t).bind("mouseleave.perfect-scroll",o)},r=function(){L=function(){h.css({left:u+l.scrollLeft(),bottom:g,width:p}),v.css({top:d+l.scrollTop(),right:m,height:f}),h.hide().show(),v.hide().show()},b=function(){var e=parseInt(d*i/c,10);l.scrollTop(e),h.css({bottom:g}),h.hide().show()},w=function(){var e=parseInt(u*a/s,10);l.scrollLeft(e),v.hide().show()}};6===t&&(o(),r())},M="ontouchstart"in window||window.DocumentTouch&&document instanceof window.DocumentTouch,E=function(){var e=navigator.userAgent.toLowerCase().match(/(msie) ([\w.]+)/);e&&"msie"===e[1]&&Y(parseInt(e[2],10)),I(),y(),x(),M&&X(),l.mousewheel&&P(),l.data("perfect-scrollbar",l),l.data("perfect-scrollbar-update",I),l.data("perfect-scrollbar-destroy",S)};return E(),l})}})(jQuery),function(e){function t(t){var o=t||window.event,r=[].slice.call(arguments,1),n=0,l=0,s=0;return t=e.event.fix(o),t.type="mousewheel",o.wheelDelta&&(n=o.wheelDelta/120),o.detail&&(n=-o.detail/3),s=n,void 0!==o.axis&&o.axis===o.HORIZONTAL_AXIS&&(s=0,l=-1*n),void 0!==o.wheelDeltaY&&(s=o.wheelDeltaY/120),void 0!==o.wheelDeltaX&&(l=-1*o.wheelDeltaX/120),r.unshift(t,n,l,s),(e.event.dispatch||e.event.handle).apply(this,r)}var o=["DOMMouseScroll","mousewheel"];if(e.event.fixHooks)for(var r=o.length;r;)e.event.fixHooks[o[--r]]=e.event.mouseHooks;e.event.special.mousewheel={setup:function(){if(this.addEventListener)for(var e=o.length;e;)this.addEventListener(o[--e],t,!1);else this.onmousewheel=t},teardown:function(){if(this.removeEventListener)for(var e=o.length;e;)this.removeEventListener(o[--e],t,!1);else this.onmousewheel=null}},e.fn.extend({mousewheel:function(e){return e?this.bind("mousewheel",e):this.trigger("mousewheel")},unmousewheel:function(e){return this.unbind("mousewheel",e)}})}(jQuery);
+function hideWin(){
+	$('.cat-item:visible').hide();
+	$('.acount-item:visible').hide();
+	$('.substitute').hide();
+	$('.downt:visible').css({'border-color':'#fff transparent transparent'});
+}
+$('.btnn').on('click',function(){
+	setCoor("signup");
+});
+$('.substitute').on('click',function(){
+	hideWin();
+});
+$('.downt,.lgic,.btk,.tpic').on('click',function() {
+	$('.substitute').show();
+	var x = $(this).parent().find('.guy').offset();
+	$('.cat-item:visible').hide();
+	$('.acount-item').slideToggle(50);
+	$('.acount-item .tip').offset({left:x.left+5});
+	$('.downt').css({'border-color':'transparent'});
+});
+$('.vispart').on('click',function() {
+	$('.substitute').slideDown();
+	$('.acount-item:visible').hide();
+	var x = $(this).offset();
+	$('.cat-item').css({left:(x.left-10)+'px',top:(x.top+46)+'px'}).slideToggle();
+	$('.cat-item .tip').offset({left:(x.left+5)});
+});
+$('#qa-np-nc-marker').on('click',function(){
+		var x = $(this).offset();
+		if ($(this).is('.qa-np-nc-marker-inactive')) {
+			$(this).removeClass("qa-np-nc-marker-inactive").addClass("qa-np-nc-marker-active");
+			$('#qa-np-nc-window').offset({top:(x.top+14)}).show();
+			$('#qa-np-nc-window-tip').offset({left:x.left});
+		}else{
+			$('#qa-np-nc-window').hide();
+			$(this).removeClass('qa-np-nc-marker-active');
+			$(this).addClass('qa-np-nc-marker-inactive');
+
+		};
+		$('.notibac').width($(document).width()).height($(document).width()).toggle();
+	});
+$('.qa-np-nc-close-link').on('click',function(){
+
+			$('#qa-np-nc-window').hide();
+			$('#qa-np-nc-marker').removeClass('qa-np-nc-marker-active');
+		$('#qa-np-nc-marker').addClass('qa-np-nc-marker-inactive');
+
+});
+
+	$('.qa-q-list-item').on('click',function() {
+	var c = $(this).find('.lnn').attr("href");
+	window.location.href = c;
+});
+	$('.notibac').click(function(e) {
+		$('#qa-np-nc-marker').click();
+	});
+			</script>
+<!-- settings --> 
+<!-- Note: This Line is not written in view account page. -->
+
+<div class="full_width cover_pic" style="background-image:url(http://www.findyogi.com/avatar/b946a6.jpg);">
+	<div class="overlay">
+	</div>
+</div>
+<div class="center_wrap">
+	<div class="qcnt">
+		<a href="#activity" class="asad">
+			<span class="cont2">
+				Asked
+			</span>
+			<span class="cont1">
+				0			</span>
+		</a>
+		<a href="#activity" class="asad">
+			<span class="cont2">
+				Advised
+			</span>
+			<span class="cont1">
+				0			</span>
+		</a>
+	</div>
+	<div class="userDet">
+		<div class="pinam">
+			<div class="propic">
+				<div class="tv" style="background-image:url(http://www.findyogi.com/avatar/b946a6.jpg)">
+				</div>
+						<!--<img src="images/a.jpg" alt="Profile Pic">-->
+			</div>
+			<div class="name">
+				<h1 class="contb">Subodh Yadav</h1>
+				<div style="margin-left: -3px;">
+				<div class="proic icloc">
+				</div>
+				<div class="cont3">
+					Delhi, India				</div>
+			</div>
+				<div class="icon">
+										<a href="http://www.facebook.com/100000446389287" target="_blank">
+					<div class="proic icfb">
+					</div>
+					<div class="cont3 drk">
+						Facebook
+					</div>			
+					</a>
+															<a href="/accountsettings">
+					<div class="proic icset">
+					</div>
+					<div class="cont3 drk">
+						Settings
+					</div>
+					</a>
+				</div>
+		</div>			
+		</div>
+				 
+							<div class="ptabpanel">
+				<span class="tabctrl">
+					<span class="tab-option active">General</span>
+					<span class="tab-option tab-color">Password</span>
+					<span class="tab-option tab-color">Notifications</span>
+
+				</span>
+				<span class="tab-page">
+					<span id="General" class="ptbpg">
+						<form action="http://www.findyogi.com/accountsettings/change_dp.html" method="post" accept-charset="utf-8" id="uploadform" enctype="multipart/form-data">						<label class="lbll" > Profile Image</label>
+						<span class="chfile">Choose File</span>
+						<input type="file" accept="image/jpeg" class="upld" name="userfile" size="20" />
+						<div class="hidb">
+							<img id="lbll" src="#" alt="your image" />
+							<div class="primsid">
+								<div class="primbtnctrl">
+									<span class="imsbwr">
+										<span class="hidsbmt"></span>
+										<input type="Submit" value="Confirm" class="ulp orange" />
+									</span>
+									<span class="cncel orange" style="padding:4px 8px;">Cancel</span>
+								</div>
+								<span class="primmsg">Please Upload max 100kb file</span>
+							</div>
+						</div>
+						</form>							<form action="http://www.findyogi.com/authenticate/change_userinfo" method="post" accept-charset="utf-8" id="geneform">	
+								<span class="ffl">
+									<label for="changename" for="chdNm" class="lbll">Name</label>									<input type="text" name="changename" value="Subodh Yadav" placeholder="New name" id="chdNm" class="gnlbl"  />								</span>
+								<span class="ffl">
+									<label for="changeloc" for="chdLc" class="lbll">Location</label>									<input type="text" name="changeloc" value="Delhi, India" placeholder="New location" id="chdLc" class="gnlbl"  />								</span>
+								<span class="ffl">
+									<label for="chdDB" class="lbll">Date of Birth</label>
+									<input type="text" name="changedob" value="29-03-1995" placeholder="DD-MM-YYYY" id="chdDB" class="gnlbl"  />								</span>
+								<span class="ffl">
+									<label for="chdWB" class="lbll">Blog/Website Link</label>
+									<input type="text" id="chdWB" name = "addsite" class="gnlbl" placeholder="http://www.mysite.com" value="" />
+								</span>
+								<span class="ffl">
+																		</span>
+								<span class="fl">
+									<span class="lbll"></span>
+<!-- 									<span class="warn ckbtn" style="float:left;width:51.3%;margin-top:7px;">
+										<div class="emotions" title="Bad" style="margin:2px;"></div>
+										<span class="dat"></span>
+									</span> -->
+								</span>
+								<span class="fl">
+									<span class="lbll"></span>
+									<span style="margin:15px auto 5px;position:relative;">
+										<span class="hidsbmt"></span>
+										<input type="submit" id="scfi" class="adf orange" value="Save Details" disabled="disabled" />
+									</span>
+								</span>
+							</form>						</span>
+					 <span id="Notifications" class="ptbpg">
+						<form class="gensett" id="gensett" method="post">
+							<span class="ffl">
+								<input class="checkset" type="checkbox" value="1" id="PostQues" name="a_post_me" />
+								<label for="PostQues" class="lblll">Send me a mail when someone advises on my question.</label>
+							</span>
+							<span class="ffl">
+								<input class="checkset" type="checkbox" value="1" id="Postvote" name="a_vote_up" />
+								<label for="Postvote" class="lblll">Send me a mail when someone votes on my advice.</label>
+							</span>
+							<span class="ffl">
+								<input class="checkset" type="checkbox" value="1" id="Postbest" name="a_select" />
+								<label for="Postbest" class="lblll">Send me a mail when someone selects my advice as best.</label>
+							</span>
+							<span class="ffl">
+								<input class="checkset" type="checkbox" value="1" id="PostEm" name="a_post_f_qs" />
+								<label for="PostEm" class="lblll">Send me a mail when someone else also advises for a question that I advised for.</label>
+							</span>
+							<span class="fl">
+								<span style="margin:15px auto 5px;">
+									<input type="submit" class="adf cncl" id="settsub" value="Save Details"/>
+								</span>
+							</span>
+						</form>
+					</span>
+					<span id="Password" class="ptbpg">
+
+						<form action="http://www.findyogi.com/authenticate/change_password" method="post" accept-charset="utf-8" id="changpass">	       				<span class="ffl opw">
+					    	<label for="oldpassword" for="chdOPw" class="lbll">Old Password:</label>					    	<span class="pwwrp">
+	    						<input type="password" name="oldpassword" value="" placeholder="Old Password" id="oldpassword" class="gnlbl" />	    					<span class="shpw">Show Password</span>
+	    					</span>
+	    				</span>
+	    				<span class="ffl">
+					    	<label for="newpassword" for="chdOPw" class="lbll">New Password:</label>	    					<span class="pwwrp">
+	    						<input type="password" name="newpassword" value="" placeholder="New Password" id="newpassword"  class="gnlbl" />								<span class="shpw">Show Password</span>
+							</span>
+						</span>
+						<span class="ffl">
+						    <label for="confpassword" for="chdOPw" class="lbll">Confirm Password:</label>		    				<span class="pwwrp">
+		    					<input type="password" name="confpassword" value="" placeholder="Confirm Password" id="confpassword" class="gnlbl" />		    				<span class="shpw">Show Password</span>
+		    				</span>
+	    				</span>
+	    				<span class="fl"><span class="rifp">forgot password?</span></span>
+	    				<span class="fl">
+							<span class="lbll"></span>
+<!-- 							<span class="warn ckbtn" style="float:left;width:49.4%;;margin-top:7px;">
+								<div class="emotions" title="Bad" style="margin:2px;"></div>
+								<span class="dat">Did You Forget Your Password...</span>
+							</span> -->
+						</span>
+	    				<span class="fl" style="margin-top:15px !important;position:relative;">
+							<span class="hidsbmt" ></span>
+							<span class="lbll"></span>
+								<input type="submit" name="submit" value="Change Password" class="orange adf" />						</span>
+						</form>
+					</span>
+				</span>
+			</div>
+		</div>
+	</div>
+	<span class="perr">  </span>
+							
+	<div class="pleftpart"></div>
+</div>
+<span class="atajax">
+	Loading
+	<img src="http://www.findyogi.com/images/lod.gif" style="float:none;">
+</span>
+ 
+<script type="text/javascript">
+ function checkboxvalidate () {
+	var userprefcheck= "1"
+		if (userprefcheck == "1") {
+		$('#PostQues').attr('checked','checked');
+		};
+		var userprefcheck= "1"
+		if (userprefcheck == "1") {
+		$('#PostEm').attr('checked','checked');
+		};
+		var userprefcheck= "1"
+		if (userprefcheck == "1") {
+		$('#Postbest').attr('checked','checked');
+		};
+		var userprefcheck= "1"
+		if (userprefcheck == "1") {
+		$('#Postvote').attr('checked','checked');
+		};    
+	}
+
+$('.checkset').change(function() {
+	$("#settsub").removeClass('cncl');
+});
+
+
+
+
+
+
+$("#gensett").submit(function(e) {
+ 		$('.atajax').show();
+    var url = "http://www.findyogi.com/gensett"; // the script where you handle the form input.
+ 	// alert($("#gensett").serialize());
+    $.ajax({
+           type: "POST",
+           url: url,
+           data: $("#gensett").serialize(), // serializes the form's elements.
+           success: function(data)
+           {	
+           	 $('.atajax').hide();
+	$("#settsub").addClass('cncl');// show response from the php script.
+           }
+
+         });
+
+        e.preventDefault();
+});
+
+	function readURL(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();            
+            reader.onload = function (e) {
+                $('#lbll').attr('src', e.target.result);
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+  
+	$(function(){
+		checkboxvalidate();
+		$('#back-top').remove();
+		var name = $('#chdNm').val(),
+		loc = $('#chdLc').val(),
+		dob = $('#chdDB').val(),
+		web = $('#chdWB').val();
+		page="home";
+		xh = "set"
+		$('body').css({"background-image":"url('')"});
+		$('.chfile').on('click',function(){$('.upld').click();});
+		$('#General').show();
+		$('.rifp').on('click',function(){setCoor('forget');});
+		$("input:file").change(function(e){
+			var fn = $(this).val(),
+	       	files = e.target.files,
+	       	winh = $(window).height();
+	       	for (var i = 0, file; file = files[i]; i++) {
+			    var name = file.name,
+		        extension = name.split('.')[name.split('.').length - 1].toLowerCase(),
+		        size = file.size;
+				if(size > 4194304){
+					shw('bad','file should be less than 4MB.','geneform','rd');
+					$('.primmsg').html('max upload size is 4MB.');
+					$('.hidsbmt').show();
+					$('body,html').animate({
+						scrollTop: $('.tabctrl').offset().top
+					}, 1000);
+				}else{
+					$('.warn').hide();
+					$('.primmsg').html('');
+					$('.hidsbmt').hide();
+				}
+		  	}
+	       $(this).siblings('.chfile').hide().siblings('.hidb').show();
+	       readURL(this);
+	     });
+		$('.cncel').on('click',function(){
+			$(this).parents('.hidb').hide();
+			$('.chfile').show();
+		})
+		$('.tab-option').on('click',function(){
+			$('.tab-option').removeClass('active');
+			$('.tab-option').addClass('tab-color');
+			$(this).addClass('active');
+			$(this).addClass('tab-color');
+			var x = $(this).text();
+			x = /\s/.test(x) ? x.split(" ")[0] : x ;
+			$('.ptbpg').hide();
+			$('#'+x).show();
+		});
+		$('input#chdPw,input#chdOPw').on('propertychange keyup input paste', function(ee){
+			$(this).val() == "" ? $(this).siblings('.shpw').slideUp("slow") : $(this).siblings('.shpw').height($(this).outerHeight()).css({'line-height':$(this).outerHeight()+'px'}).slideDown("slow");
+		});
+		$('#chdLc').on('input',function(){
+			$(this).parents("form").find('input[type="submit"]').removeAttr('disabled');
+			$('.hidsbmt').hide();
+		})
+		var $input;
+		$(".shpw").click(function () {
+			$input = $(this).siblings('input');
+			var change = "";
+			if ($(this).html() === "Show Password") {
+				$(this).html("Hide Password")
+				change = "text";
+			} else {
+				$(this).html("Show Password");
+				change = "password";
+			}
+			var rep = $("<input type='" + change + "' />")
+				.attr("id", $input.attr("id"))
+				.attr('class', $input.attr('class'))
+				.attr('placeholder',$input.attr('placeholder'))
+				.val($input.val())
+				.insertBefore($input);
+			$input.remove();
+			$input = rep;
+		}).insertAfter($input);
+		$('#chdDB').on('blur', function() {
+			if($(this).val!=dob){
+				var datval =checkdate($(this));
+				datval ? ($(this).parents("form").find('input[type="submit"]').removeAttr('disabled'),$('.hidsbmt').hide(),$('.warn').hide(),$(this).removeClass('first').addClass('riht')) : ($(this).removeClass('riht').addClass('first'),$('.hidsbmt').show(),$(this).parents("form").find('input[type="submit"]').attr('disabled','disabled'));
+			}
+			if($(this).val()===""||null){$(this).removeClass('first riht');$('.warn').hide();}
+			dob = $(this).val();
+		});
+		$('#chdNm').on('blur', function(){
+
+					if(/^[\w\s]*$/.test($(this).val())){
+						$(this).val().length >= 4 ? ($(this).parents("form").find('input[type="submit"]').removeAttr('disabled'),$('.hidsbmt').hide(),$('.warn').hide(),$(this).removeClass('first').addClass('riht')) : ($(this).parents("form").find('input[type="submit"]').attr('disabled','disabled'),$('.hidsbmt').show(),shw('bad','Name should have more than 3 characters.','geneform','rd'),$(this).removeClass('riht').addClass('first'));
+					}else{
+						$(this).parents("form").find('input[type="submit"]').attr('disabled','disabled');
+						$('.hidsbmt').show();
+						shw('bad','Name should not have special characters.','geneform','rd');
+						$(this).removeClass('riht').addClass('first');
+					}
+	
+						if($(this).val()===""||null){$(this).removeClass('first riht');$('.warn').hide();}
+			name = $(this).val();
+		});
+		$('#chdWB').on('blur', function(){
+			if($(this).val()!=web){
+				var valurl = validurl($(this).val());
+				valurl ? ($('.warn').hide(),$(this).removeClass('first').addClass('riht'),$('.hidsbmt').hide(),$(this).parents("form").find('input[type="submit"]').removeAttr('disabled')) : (shw('bad','Enter a valid Blog/Website Link','geneform','rd'),$(this).removeClass('riht').addClass('first'),$('.hidsbmt').show(),$(this).parents("form").find('input[type="submit"]').attr('disabled','disabled'));
+			}
+			if($(this).val()===""||null){$(this).removeClass('first riht');$('.warn').hide();}
+			web = $(this).val();
+		});
+		$('#confpassword').keyup(function(){
+	        if($(this).val().length >=4 && $(this).val().length >= $('#newpassword').val().length){
+	            $('#newpassword').val() === $(this).val() ? ($(this).addClass("riht"),$('.warn').hide(),$('.hidsbmt').hide(),$(this).parents("form").find('input[type="submit"]').removeAttr('disabled')) : ($(this).removeClass('riht').addClass("first"),shw("bad","passwords don't match","rstpw",'rd'),$('.hidsbmt').show(),$(this).parents("form").find('input[type="submit"]').attr('disabled','disabled'));
+	        }else{
+	        	$(this).removeClass('first riht');
+	        	$('.hidsbmt').show();
+	        	$(this).parents("form").find('input[type="submit"]').attr('disabled','disabled');
+	        }
+	    });
+	    $('#oldpassword,#newpassword').blur(function(){
+	    	if($(this).val().length>0){
+		    	if($(this).val().length>=4){
+		    		$('.warn').hide();
+		    		$(this).removeClass('first').addClass('riht');
+		    	}else{
+		    		shw('bad','Password must be minimum 4 characters long.','changpass','rd');
+		    		$(this).removeClass('riht').addClass('first');
+		    	}
+		    }else{
+		    	$(this).removeClass("riht first");
+		    	$('.warn').hide();
+		    }
+	    });
+	});
+function checkdate(input){
+	var validformat= /^\d{2}[./-]\d{2}[./-]\d{4}$/;
+	var returnval=false;
+	if (!validformat.test(input.val())){
+		shw('bad','Invalid date, fill the date in dd-mm-yyyy format eg. 19-03-1989','geneform','rd');
+	}else{
+		returnval=true;
+		if (returnval==false) 
+			input.select();
+		returnval = returnval ? checkFuture(input.val()) : false;
+	}
+	return returnval;
+	// var timestamp = Date.parse(str),
+	// str = input.val(),date = null,ret = false;
+	// isNaN(timestamp) == false ? (date = new Date(timestamp),ret=true) : (shw('bad','Invalid date, fill the date in dd-mm-yyyy format eg. 19-03-1989','geneform','rd'),ret=false);
+	// return ret;
+}
+function checkFuture(bdate){
+	var today = new Date(),
+    dd = today.getDate(),
+    mm = today.getMonth()+1,
+    yyyy = today.getFullYear(),flag;
+    if(dd<10)
+    	dd='0'+dd 
+    if(mm<10)
+    	mm='0'+mm
+    today = dd+'-'+mm+'-'+yyyy;
+    flag = new Date(today.split('-').reverse().join('-')) >  new Date(bdate.split('-').reverse().join('-'));
+    flag ? null : shw('bad','You seem to have returned from the future. Please put a more Earthly Date of Birth.','geneform','rd');
+    return flag;
+}
+function validurl(url)
+{
+	return url.match(/^(ht|f)tps?:\/\/[a-z0-9-\.]+\.[a-z]{2,4}\/?([^\s<>\#%"\,\{\}\\|\\\^\[\]`]+)?$/);
+}
+</script>
+		
+                 		</div>	
+<div class="footer" style="width: 100%;">
+	<div class="footer_div">
+		<div class="footer_content">
+			<div class="footer_link_div">
+				<a href="/"><span class="footer_link_heading">FindYogi</span></a>
+				<a href="/aboutus"><span class="footer_link_title">About Us</span></a>
+				<a href="http://inspire.findyogi.com/"><span class="footer_link_title">Blog</span></a>
+				<a href="http://www.findyogi.com/policy"><span class="footer_link_title">Law of the Land</span></a>
+				<a href="http://m.findyogi.com/"><span class="footer_link_title">Findyogi Mobile</span></a>
+			</div>
+			<div class="footer_link_div">
+				<span class="footer_link_heading">Categories</span>
+				<a href="/mobiles"><span class="footer_link_title">Mobiles</span></a>
+				<a href="/tablets"><span class="footer_link_title">Tablets</span></a>
+				<a href="/laptops"><span class="footer_link_title">Laptops</span></a>
+				<a href="/cameras"><span class="footer_link_title">Cameras</span></a>
+
+			</div>
+			<div class="footer_link_div">
+				<span class="footer_link_heading">Lets Connect</span>
+				<span class="footer_link_share">
+					<a class="footer_social googleplus" href="https://plus.google.com/105559518111354713704/posts" target="_blank" rel="publisher"></a>
+					<a class="footer_social facebook" href="https://www.facebook.com/findyogi" target="_blank"></a>
+					<a class="footer_social twitter" href="https://twitter.com/FindYogi_IN" target="_blank"></a>			
+				</span>			
+			</div>
+			<div class="footer_link_div" style="margin-top:-30px;background-color:#f7fcfc;border-radius:10px">
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ffindyogi&amp;width=250&amp;height=241&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=402664529839943" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:242px;" allowTransparency="true"></iframe>
+			</div>						
+		</div>
+	</div>
+</div>
+
+		
+<!-- Login Div -->
+<div class="lg login">
+	<div class="instmsg"></div>
+	<span class="wrnn"></span>
+	<span class="ccrs">X</span>
+	<div class="frmwrp">
+		<span class="frmhd">Log In</span>
+		<div class="scbtns">
+			<a class="scbt fb" href="http://www.findyogi.com/demo_facebook"><span class="ss ffb"></span><span class="sctxt">Login With Facebook</span></a>
+		</div>
+		<div class="lgin_or_div">
+			<span class="lgin_or_leftline"></span>
+			<span class="lgin_or_mid_div">OR</span>
+			<span class="lgin_or_rightline"></span>
+		</div>
+		<form class="dtwrp" id="loginform" method="post">
+			<div class="usr">
+				<input class="inpt" type="text" id="login_identity" name="email" placeholder="Enter Your Email" />
+			</div>
+			<div class="usr">
+				<input class="inpt" id="login_password" name="password" type="password" placeholder="Enter Your Password" />
+			</div>
+			<span class="warn ckbtn lgin_warning_div">
+				<span id="tringle_tip_warn lgin_warning_tringle" ></span>
+				<span class="dat"></span>
+			</span>
+			<div class="ckbtn">
+				<input class="margintop5 display_block" id="login_remember_me" type="checkbox" name="remember_me" checked /><span class="smlls">remember me</span>
+				<span id="und" class="smlls scnd">Forgot Password?</span>
+			</div>
+			<div class="ckbtn lgwrp">
+				<span class="lod"></span>
+				<input type="submit" class="adf lgin ln" value="Login"/>
+			</div>
+		</form>
+	</div>
+	<span class="fll btlns">New to FindYogi? <span class="signups">Register here</span></span>
+	<div class="fltdet"></div>
+</div>
+<!-- Login Div End -->
+<!-- Background layer(To create light box effect)  -->
+<div class="bak"></div>
+<!-- Signup Div -->
+<div class="lg signup">
+	<div class="instmsg"></div>
+	<span class="ccrs">X</span>
+	<div class="frmwrp">
+		<span class="frmhd">Signup</span>
+		<div class="scbtns">
+			<a class="scbt fb" href="http://www.findyogi.com/demo_facebook"><span class="ss ffb"></span><span class="sctxt">Login With Facebook</span></a>
+		</div>
+		<div class="lgin_or_div">
+			<span class="lgin_or_leftline"></span>
+			<span class="lgin_or_mid_div">OR</span>
+			<span class="lgin_or_rightline"></span>
+		</div>
+		<form class="dtwrp" id="signupform" method="post">
+			<div class="usr">
+				<input class="inpt" name="name" id="signup_name" type="text" placeholder="Enter your Name" />
+			</div>
+			<div class="usr">
+				<input class="inpt"  name="email" id="signup_email" type="text" placeholder="Enter Your Email" />
+			</div>
+			<div class="usr">
+				<input class="inpt" type="password" id="signup_password" placeholder="Set your Password" />
+			</div>
+			<span class="btlns more signup_termncond_text">by clicking on signup you agree to <a href="http://www.findyogi.com/policy">terms of use</a></span>
+			<span class="warn ckbtn signup_warning_div">
+				<span id="tringle_tip_warn lgin_warning_tringle"></span>
+				<span class="dat"></span>
+			</span>
+            <div class="ckbtn">
+				<span class="lod"></span>
+				<input type="submit" class="adf lgin signup_submit" value="Signup"/>
+			</div>
+		</form>
+	</div>
+	<span class="fll btlns">Already on FindYogi? <span class="signups1">Login</span></span>
+	<div class="fltdet">
+	</div>
+</div>
+<!-- Signup End -->
+<!-- forget Div start -->
+<div class="lg forget">
+	<div class="usr">
+		<span class="fll">
+			<span class="titles" style="color:white">Forgot Password ?</span>
+		</span>
+		<form action="" id="forget_form" class="dtwrp">
+			<label class="titl" style="color:white;padding-left:10px;">Email</label>
+			<div class="forget_email_input_div">
+				<input class="inpt"  name="email" id="forget_email" type="text" placeholder="johndoe@domain.com" />
+			</div>
+				<input type="submit" class="adf lgin frgt" value="Recover" />
+			<span class="lod forget_lod"></span>
+			<span class="warn ckbtn frwr">
+				<div class="emotions margin2" title="Bad"></div>
+				<span class="dat">Did You Forget Your Password...</span>
+			</span>
+			<span class="smll" style="color:white">
+				You will get an email with a link to reset your password. Check your spam/junk folder if you don't find it.
+			</span>
+		</form>
+	</div>	
+</div>
+
+<!-- Help Text on Hover Text Div for FYI -->
+<span class="whydet"></span>
+<!-- Header_Menu_start -->
+						
+
+<div class="Question_widget" id="Advice_Platform_Widget">
+	<div class="Qwidget_main">
+		<div class="Qwidget_mascot">
+			<img src="http://www.findyogi.com/images/eyebrow.gif" />
+			<img class="Qwidget_mascoteyes" src="http://www.findyogi.com/images/eyes.gif" />
+		</div>
+		<div class="Qwidget_content" onClick="ga('send','event', 'Qwidget', 'click', 'form');">
+			<div class="Qwidget_heading">Can’t decide which  to buy?</div>
+			<div class="Qwidget_heading font13">Tell us what you are looking for, we will get an expert to advice you the right product</div>
+						<form  id="Advice_widget" name="ask" method="post" action="/q/ask?widget=true">
+				<input id="advice_widget_title" class="Qwidget_title" onClick="ga('send','event', 'Qwidget', 'click', 'form-title');"  name="title" id="title" autocomplete="off" 
+					placeholder="" type="text" value="" class="qa-form-tall-text">
+				</input>
+				<textarea id="advice_widget_description" class="Qwidget_description" onClick="ga('send','event', 'Qwidget', 'click', 'form-description');" name="content" id="content" placeholder="Tell us more about what you are looking to do with the product, your preferences, budget etc. We need to understand your need to help you better." rows="12" cols="40" class="qa-form-tall-text"></textarea>				
+					<span id="category_0_sub"> 
+						<select id="advice_widget_category" class="Qwidget_category" name="category_1" id="category_1" class="qa-form-tall-select">
+							<option value="" selected="">Select Category</option>
+							<option value="1">Mobiles</option>
+							<option value="2">Laptops</option>
+							<option value="3">Tablets</option>
+							<option value="4">Cameras</option>
+							<option value="0">Others</option>
+						</select>
+					</span>
+				<div id="Qwidget_loading" style="display: none;position: relative;top: -150px;left: 387px;"><img src="/images/indicator.gif"></div>							
+									<input class="Qwidget_submit Qwidgetsubmitloggedin" id="Qwidget_submitloggedin" onClick="ga('send','event', 'Qwidget', 'click', 'form-submit-loggedin');" value="Submit Question" title="" type="submit" class="orange askk">
+					<input type="hidden" name="code" value="1-1415214232-dc5c455d6045fc72290106e13b38fea927531d0e">
+								<input name="notify" type="checkbox" value="1" checked="" class="qa-form-tall-checkbox">
+					<input type="hidden" name="doask" value="1">
+					<input type="hidden" name="editor" value="">
+					<input type="hidden" name="ref_url" value="/accountsettings">
+			</form>
+		</div>
+		<div class="Qwidget_onboardingtext">
+			<div id="Qwidget_onbordingtext_title" class="Qwidget_onboardingtext_content"><span class="check"></span><span class="content"></span></div>
+			<div id="Qwidget_onboardingtext_description" class="Qwidget_onboardingtext_content"><span class="check"></span><span class="content"></span></div>
+						<div id="Qwidget_onboardingtext_submit" class="Qwidget_onboardingtext_content" style="top: 160px;position: absolute;"><span class="check" style="color:green">&#10004;</span><span class="content" style="display:block">Logged in! Ready to get some awesome advice.</span></div>				
+					</div>
+	</div>
+		<div id="Qwidget_cross" onClick="ga('send','event', 'Qwidget', 'click', 'form-cross');"></div>
+</div>
+<div class="Qwidget_mascot_unopened Qwidget_mascot " onClick="ga('send','event', 'Qwidget', 'click', 'closed-widget-mascot');" id="Qwidget_icon" class="Qwidget_mascot_unopened"> 
+</div>
+ <script>
+// 	$(window).load(function(){
+// 		$('#advice_widget_category option:contains('+ccc+')').prop('selected', true);
+// 		function urldecode(str) {
+// 	  		return decodeURIComponent((str+'').replace(/\+/g, '%20'));
+// 		}
+// 	    var advice_widgetdata_retrieve=urldecode(getCookie("advice_widgetdata"));
+// 	   	var advice_widgetdata_crossed=getCookie("advice_widgetdatacrossed");
+// 	   	loadSerializedData("Advice_widget", advice_widgetdata_retrieve);
+// 	   	if (advice_widgetdata_crossed != null) {
+//             $("#Advice_Platform_Widget").slideUp().delay(200);
+// 		    $("#Qwidget_icon").delay(900).slideDown();	   		
+// 	   	}else{
+// 	    	if (getCookie("advice_widgetdata")!=null) {
+// 					loadSerializedData("Advice_widget", advice_widgetdata_retrieve);
+// 					$("#Advice_Platform_Widget").slideDown().animate({height: "255px"}, 500);
+// 		           	$(".Qwidget_submit").addClass('notloggedin');
+// 					$(".Qwidget_submit").removeClass('ntopened');  
+// 			}else{
+// 					$("#Advice_Platform_Widget").delay(15000).slideDown();
+// 		            $(".Qwidget_submit").css("margin-top","-29.4%");  
+// 		            $(".Qwidget_submit").css("margin-right","-16px");  
+
+
+// 			}
+// 		}
+// 		var Qwidgettitlekyup = 0;
+// 		$('#advice_widget_title').on('keyup',function(e){
+// 	   		Qwidgettitlekyup++;
+// 	   		$('#Qwidget_onbordingtext_title').find('.content').show();
+// 	   		$('#Qwidget_onbordingtext_title').find('.check').show();
+//    			var Qwidgettitlelength = $(this).val().length;
+//    			Qwidgettitlekyup = Qwidgettitlelength;
+// 	   		if (Qwidgettitlekyup > 15) {
+// 				$('#Qwidget_onbordingtext_title').find('.content').text("");
+// 				$('#Qwidget_onbordingtext_title').find('.check').html("&#10004;");
+// 				$('#Qwidget_onbordingtext_title').find('.check').css("color","green");
+// 	   		};
+// 	    // $('.count').text(120-($(this).val().length));
+// 		});
+// 		var Qwidgetdescriptionkyup = 0;
+// 		$('#advice_widget_description').on('keyup',function(e){
+// 	  		Qwidgetdescriptionkyup++;
+// 	   		$('#Qwidget_onboardingtext_description').find('.content').show();
+// 	   		$('#Qwidget_onboardingtext_description').find('.check').show();	   		
+//    			var Qwidgetdesclength = $(this).val().length;
+//    			Qwidgetdescriptionkyup = Qwidgetdesclength;
+// 	   		if (Qwidgetdescriptionkyup > 20) {
+// 	   				$('#Qwidget_onboardingtext_description').find('.content').text("");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10004;");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","green");
+// 	   		};
+// 	    // $('.count').text(120-($(this).val().length));
+// 		});
+// 		$("#advice_widget_title").blur(function(){
+// 			var advice_widgetdata = $("#Advice_widget").serialize();
+// 			createCookie('advice_widgetdata',advice_widgetdata,.5);
+// 				var Qwidgettitlelength = $(this).val().length;
+// 				if (Qwidgettitlelength < 1) {
+// 	   				$('#Qwidget_onbordingtext_title').find('.content').text("Required");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#33;");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","red");
+// 	   			}else if(Qwidgettitlelength >= 1 && Qwidgettitlelength < 15){
+// 	   				$('#Qwidget_onbordingtext_title').find('.content').text("not enough, tell us more.");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#10007;");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","yellow");
+
+// 	   			}
+// 	   		$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+// 	   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+
+
+// 		});
+// 		$("#advice_widget_description").blur(function(){
+// 			var advice_widgetdata = $("#Advice_widget").serialize();
+// 			createCookie('advice_widgetdata',advice_widgetdata,.5);
+// 			var Qwidgetdesclength = $(this).val().length;
+// 	   			if (Qwidgetdesclength < 1) {
+// 	   				$('#Qwidget_onboardingtext_description').find('.content').text("Required");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#33;");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","red");
+// 	   			}else if(Qwidgetdesclength > 1 && Qwidgetdesclength < 20){
+// 	   				$('#Qwidget_onboardingtext_description').find('.content').text("not enough, tell us more.");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10007;");
+// 	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","yellow");
+
+// 	   			}
+// 	   		$('#Qwidget_onboardingtext_description').fadeIn();	   		
+
+// 		});			
+//         $("#Advice_Platform_Widget").click(function(){
+//         	$("#Advice_Platform_Widget").animate({height: "255PX"}, 500);
+// 	        $(".Qwidget_submit").animate({"margin-top": "1%"}, 500);    
+//            	$(".Qwidget_submit").addClass('opened');
+//         });
+// 	    $("#Qwidget_cross").click(function(){
+// 		  	createCookie('advice_widgetdatacrossed',1,7);
+// 	        $("#Advice_Platform_Widget").slideUp().delay(200);
+// 			$("#Qwidget_icon").delay(900).slideDown();
+//         });
+// 	    $("#Qwidget_icon").click(function(){
+//     		  	createCookie('advice_widgetdatacrossed',1,-1);
+// 				$("#Advice_Platform_Widget").slideDown().animate({height: "255px"}, 500);
+// 				$("#Qwidget_icon").slideUp();
+// 		});
+// 		$('#Advice_widget').submit(function(event){
+// 				var isValid = true;
+// 				if ($(".Qwidget_submit").hasClass("Qwidgetsubmitloggedin")){
+// 					if (getCookie("advice_widgetdata")!=null) {
+// 							isValid = true;	
+// 						}else{
+// 							isValid = false;
+// 						}
+// 				}else if ($(".Qwidget_submit").hasClass("ntopened")) {
+// 	           		if ($(".Qwidget_submit").hasClass("opened")) {
+//            				var isUser=getCookie("UID");
+// 						var advice_widgetdata = $("#Advice_widget").serialize();
+// 						createCookie('advice_widgetdata',advice_widgetdata,.5);
+// 						if (isUser!=null) {
+// 							setCoor("login");
+// 							shww('Almost done. <br /> Login below to post and track your question','login');
+// 						}else{
+// 							setCoor("signup");
+// 							shww('Almost done. <br /> Signup below to post and track your question','signup');
+// 						} 
+// 	           		};
+// 	           	$(".Qwidget_submit").addClass('notloggedin');
+// 				$(".Qwidget_submit").removeClass('ntopened');  
+// 				isValid = false;
+// 				}else  if($(".Qwidget_submit").hasClass("notloggedin")){
+// 					var isUser=getCookie("UID");
+// 					var advice_widgetdata = $("#Advice_widget").serialize();
+// 					createCookie('advice_widgetdata',advice_widgetdata,.5);
+// 					if (isUser!=null) {
+// 						setCoor("login");
+// 						shww('Almost done. <br /> Login below to post and track your question','login');
+// 					}else{
+// 						setCoor("signup");
+// 						shww('Almost done. <br /> Signup below to post and track your question','signup');
+// 					} 
+// 					isValid = false;
+// 				};
+// 				if($(".Qwidget_submit").hasClass("Qwidgetsubmitloggedin")){
+// 					var Qwidgetdesclength = $('#advice_widget_description').val().length;
+// 		   			if (Qwidgetdesclength < 1) {
+// 		   				$('#Qwidget_onboardingtext_description').find('.content').text("Required");
+// 		   				$('#Qwidget_onboardingtext_description').find('.check').html("&#33;");
+// 		   				$('#Qwidget_onboardingtext_description').find('.check').css("color","red");
+// 		   				isValid = false;
+//    				 		$('#Qwidget_onboardingtext_description').fadeIn();	
+// 		   			}else if(Qwidgetdesclength > 1 && Qwidgetdesclength < 20){
+// 		   				$('#Qwidget_onboardingtext_description').find('.content').text("not enough, tell us more.");
+// 		   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10007;");
+// 		   				$('#Qwidget_onboardingtext_description').find('.check').css("color","yellow");
+// 		   				isValid = false;
+//    				 		$('#Qwidget_onboardingtext_description').fadeIn();	
+// 		   			}
+// 		   		$('#Qwidget_onboardingtext_description').fadeIn();	
+// 		   		$('#Qwidget_onbordingtext_description').find('.content').fadeIn();
+// 		   		$('#Qwidget_onbordingtext_description').find('.check').fadeIn();
+// 				var Qwidgettitlelength = $('#advice_widget_title').val().length;
+// 				if (Qwidgettitlelength < 1) {
+// 	   				$('#Qwidget_onbordingtext_title').find('.content').text("Required");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#33;");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","red");
+// 	   				isValid = false;
+// 					$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+// 			   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+// 	   			}else if(Qwidgettitlelength >= 1 && Qwidgettitlelength < 15){
+// 	   				$('#Qwidget_onbordingtext_title').find('.content').text("not enough, tell us more.");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#10007;");
+// 	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","yellow");
+// 	   				isValid = false;
+// 					$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+// 			   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+// 	   			}
+// 			}				
+
+// 		    if (!isValid) {
+// 		        event.preventDefault();
+// 		    }else{
+// 		    	$('#Qwidget_loading').show();
+// 		    }
+// 		});			
+// 	});
+//     function loadSerializedData(formId, data)
+// 		{
+// 			var tmp = data.split('&'), dataObj = {};
+// 			// Bust apart the serialized data string into an obj
+// 			for (var i = 0; i < tmp.length; i++)
+// 			{
+// 				var keyValPair = tmp[i].split('=');
+// 				dataObj[keyValPair[0]] = keyValPair[1];
+// 			}
+// 			// Loop thru form and assign each HTML tag the appropriate value
+// 			$('#' + formId + ' :input').each(function(index, element) {
+// 				if (dataObj[$(this).attr('name')])
+// 					$(this).val(dataObj[$(this).attr('name')]);
+// 			});
+// 		}
+// </script>
+ <script> 
+//  function shww(txt,id){
+// 	$('.'+id).find('.frmhd').html(txt).fadeIn("slow");
+// 	$('.'+id).find('.frmhd').css("font-size","19px");
+// 	$('.'+id).find('.frmhd').css("font-weight","normal");
+// 	$('.'+id).find('.frmhd').css("line-height","19px");    
+//     }
+
+// </script>
+		
+<!--ShareBar.net BEGINS-->
+	
+
+<script type="text/javascript" src="http://www.findyogi.com/scripts/jquery.autocompletev1.1.8.min.js"></script>
+<script type="text/javascript">
+	var url="",
+	bas = "http://www.findyogi.com/",
+	ccc = "",
+	shnp = 1;
+	$('.cl').on('click',function(){
+		++shnp;
+		shnp = shnp >=5 ? 1 : shnp;
+		$(".nesdat").addClass("hidme");
+		$(".nesdat:nth-child("+shnp+")").removeClass('hidme');
+	});
+
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_IN/sdk.js#xfbml=1&appId=402664529839943&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = 'd3a49daa';
+  _weq['webengage.widgetVersion'] = "4.0";
+  $(window).load(function() {
+      setTimeout(function(){
+            (function(d){
+            var _we = d.createElement('script');
+            _we.type = 'text/javascript';
+            _we.async = true;
+            _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+            var _sNode = d.getElementById('_webengage_script_tag');
+            _sNode.parentNode.insertBefore(_we, _sNode);
+            })(document);
+           
+      }, 1);
+  });
+    $(document).ready(function() {
+     
+		$('#advice_widget_category option:contains('+ccc+')').prop('selected', true);
+		function urldecode(str) {
+  		 return decodeURIComponent((str+'').replace(/\+/g, '%20'));
+		}
+	    var advice_widgetdata_retrieve=urldecode(getCookie("advice_widgetdata"));
+	   	var advice_widgetdata_crossed=getCookie("advice_widgetdatacrossed");
+	   	loadSerializedData("Advice_widget", advice_widgetdata_retrieve);
+
+	   	if (advice_widgetdata_crossed != null) {
+	            $("#Advice_Platform_Widget").slideUp().delay(1000);
+			    $("#Qwidget_icon").delay(2000).slideDown();	   		
+	   	}else{
+	    	if (getCookie("advice_widgetdata")!=null) {
+				loadSerializedData("Advice_widget", advice_widgetdata_retrieve);
+				$("#Advice_Platform_Widget").slideDown().animate({height: "255px"}, 500);
+					           	$(".Qwidget_submit").addClass('notloggedin');
+				$(".Qwidget_submit").removeClass('ntopened');  
+	            			}else{
+				 $("#Advice_Platform_Widget").delay(8000).slideDown();
+	            $(".Qwidget_submit").css("margin-top","-29.4%");  
+	            $(".Qwidget_submit").css("margin-right","-16px");  
+
+
+			}
+		}
+			
+
+			var Qwidgettitlekyup = 0;
+		$('#advice_widget_title').on('keyup',function(e){
+	   		Qwidgettitlekyup++;
+	   		$('#Qwidget_onbordingtext_title').find('.content').show();
+	   		$('#Qwidget_onbordingtext_title').find('.check').show();
+	   			var Qwidgettitlelength = $(this).val().length;
+	   			Qwidgettitlekyup = Qwidgettitlelength;
+	   		if (Qwidgettitlekyup > 15) {
+
+	   				$('#Qwidget_onbordingtext_title').find('.content').text("");
+	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#10004;");
+	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","green");
+	   		};
+	    // $('.count').text(120-($(this).val().length));
+		});
+			var Qwidgetdescriptionkyup = 0;
+		$('#advice_widget_description').on('keyup',function(e){
+	  		Qwidgetdescriptionkyup++;
+	   		$('#Qwidget_onboardingtext_description').find('.content').show();
+	   		$('#Qwidget_onboardingtext_description').find('.check').show();	   		
+	   			var Qwidgetdesclength = $(this).val().length;
+	   			Qwidgetdescriptionkyup = Qwidgetdesclength;
+	   		if (Qwidgetdescriptionkyup > 20) {
+	   		
+	   				$('#Qwidget_onboardingtext_description').find('.content').text("");
+	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10004;");
+	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","green");
+	   		};
+	    // $('.count').text(120-($(this).val().length));
+		});
+		
+		
+		$("#advice_widget_title").blur(function(){
+			var advice_widgetdata = $("#Advice_widget").serialize();
+			createCookie('advice_widgetdata',advice_widgetdata,.5);
+				var Qwidgettitlelength = $(this).val().length;
+				if (Qwidgettitlelength < 1) {
+	   				$('#Qwidget_onbordingtext_title').find('.content').text("Required");
+	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#33;");
+	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","red");
+	   			}else if(Qwidgettitlelength >= 1 && Qwidgettitlelength < 15){
+	   				$('#Qwidget_onbordingtext_title').find('.content').text("not enough, tell us more.");
+	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#10007;");
+	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","yellow");
+
+	   			}
+	   		$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+	   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+
+
+		});
+		$("#advice_widget_description").blur(function(){
+			var advice_widgetdata = $("#Advice_widget").serialize();
+			createCookie('advice_widgetdata',advice_widgetdata,.5);
+			var Qwidgetdesclength = $(this).val().length;
+	   			if (Qwidgetdesclength < 1) {
+	   				$('#Qwidget_onboardingtext_description').find('.content').text("Required");
+	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#33;");
+	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","red");
+	   			}else if(Qwidgetdesclength > 1 && Qwidgetdesclength < 20){
+	   				$('#Qwidget_onboardingtext_description').find('.content').text("not enough, tell us more.");
+	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10007;");
+	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","yellow");
+
+	   			}
+	   		$('#Qwidget_onboardingtext_description').fadeIn();	   		
+
+		});			
+        $("#Advice_Platform_Widget").click(function(){
+        	$("#Advice_Platform_Widget").animate({height: "255PX"}, 500);
+	        $(".Qwidget_submit").animate({"margin-top": "1%"}, 500);    
+           	$(".Qwidget_submit").addClass('opened');
+	        });
+	    $("#Qwidget_cross").click(function(){
+	  	createCookie('advice_widgetdatacrossed',1,7);
+
+	            $("#Advice_Platform_Widget").slideUp().delay(200);
+	            			  $("#Qwidget_icon").delay(9).slideDown();
+    
+        });
+	    $("#Qwidget_icon").click(function(){
+	    		  	createCookie('advice_widgetdatacrossed',1,-1);
+
+				$("#Advice_Platform_Widget").slideDown().animate({height: "255px"}, 500);
+	            			  $("#Qwidget_icon").slideUp();
+    
+        });
+	   			$('#Advice_widget').submit(function(event){
+    				var isValid = true;
+				if ($(".Qwidget_submit").hasClass("Qwidgetsubmitloggedin")){
+						if (getCookie("advice_widgetdata")!=null) {
+														isValid = true;
+			    				
+							}else{
+													isValid = false;
+
+							}
+				}else if ($(".Qwidget_submit").hasClass("ntopened")) {
+	           		if ($(".Qwidget_submit").hasClass("opened")) {
+	           				var isUser=getCookie("UID");
+			var advice_widgetdata = $("#Advice_widget").serialize();
+			createCookie('advice_widgetdata',advice_widgetdata,.5);
+			if (isUser!=null) {
+				setCoor("login");
+				shww('Almost done. <br /> Login below to post and track your question','login');
+
+			}else{
+				setCoor("signup");
+				shww('Almost done. <br /> Signup below to post and track your question','signup');
+
+			} 
+	           		};
+	           	$(".Qwidget_submit").addClass('notloggedin');
+				$(".Qwidget_submit").removeClass('ntopened');  
+			isValid = false;
+
+				}else  if($(".Qwidget_submit").hasClass("notloggedin")){
+				var isUser=getCookie("UID");
+			var advice_widgetdata = $("#Advice_widget").serialize();
+			createCookie('advice_widgetdata',advice_widgetdata,.5);
+			if (isUser!=null) {
+				setCoor("login");
+				shww('Almost done. <br /> Login below to post and track your question','login');
+
+			}else{
+				setCoor("signup");
+				shww('Almost done. <br /> Signup below to post and track your question','signup');
+
+			} 
+
+			isValid = false;
+
+				}
+					if($(".Qwidget_submit").hasClass("Qwidgetsubmitloggedin")){
+							var Qwidgetdesclength = $('#advice_widget_description').val().length;
+	   			if (Qwidgetdesclength < 1) {
+	   				$('#Qwidget_onboardingtext_description').find('.content').text("Required");
+	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#33;");
+	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","red");
+	   				isValid = false;
+	   				 		$('#Qwidget_onboardingtext_description').fadeIn();	
+	   			}else if(Qwidgetdesclength > 1 && Qwidgetdesclength < 20){
+	   				$('#Qwidget_onboardingtext_description').find('.content').text("not enough, tell us more.");
+	   				$('#Qwidget_onboardingtext_description').find('.check').html("&#10007;");
+	   				$('#Qwidget_onboardingtext_description').find('.check').css("color","yellow");
+	   				isValid = false;
+	   				 		$('#Qwidget_onboardingtext_description').fadeIn();	
+
+	   			}
+	   		$('#Qwidget_onboardingtext_description').fadeIn();	
+	   			   		$('#Qwidget_onbordingtext_description').find('.content').fadeIn();
+	   		$('#Qwidget_onbordingtext_description').find('.check').fadeIn();
+	   					var Qwidgettitlelength = $('#advice_widget_title').val().length;
+				if (Qwidgettitlelength < 1) {
+	   				$('#Qwidget_onbordingtext_title').find('.content').text("Required");
+	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#33;");
+	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","red");
+	   					   				isValid = false;
+		$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+	   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+	   			}else if(Qwidgettitlelength >= 1 && Qwidgettitlelength < 15){
+	   				$('#Qwidget_onbordingtext_title').find('.content').text("not enough, tell us more.");
+	   				$('#Qwidget_onbordingtext_title').find('.check').html("&#10007;");
+	   				$('#Qwidget_onbordingtext_title').find('.check').css("color","yellow");
+	   				isValid = false;
+	   						$('#Qwidget_onbordingtext_title').find('.content').fadeIn();
+	   		$('#Qwidget_onbordingtext_title').find('.check').fadeIn();
+	   			}
+
+   		
+
+
+					}				
+
+				    if (!isValid) {
+
+				        event.preventDefault();
+				    }else{
+				    	$('#Qwidget_loading').show();
+				    }
+				});
+	   	
+			
+  });
+    function loadSerializedData(formId, data)
+		{
+			var tmp = data.split('&'), dataObj = {};
+			
+			// Bust apart the serialized data string into an obj
+			for (var i = 0; i < tmp.length; i++)
+			{
+				var keyValPair = tmp[i].split('=');
+				dataObj[keyValPair[0]] = keyValPair[1];
+			}
+
+			// Loop thru form and assign each HTML tag the appropriate value
+			$('#' + formId + ' :input').each(function(index, element) {
+				if (dataObj[$(this).attr('name')])
+					$(this).val(dataObj[$(this).attr('name')]);
+			});
+		}
+
+</script>
+<script type="text/javascript" src="http://www.findyogi.com/scripts/commonminv0.0.1.js"></script>
+<script>
+
+    $(window).bind("load", function() {
+       setTimeout(function(){  	
+ 		(function(d) {
+		    var js, id = 'facebook-jssdk';
+		    if (d.getElementById(id)) {
+		        return;
+		    }
+		    js = d.createElement('script');
+		    js.id = id;
+		    js.async = true;
+		    js.src = "//connect.facebook.net/en_US/all.js";
+		    d.getElementsByTagName('head')[0].appendChild(js);
+		}(document));
+
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+		(function(){var po=document.createElement("script");po.type="text/javascript";po.async=true;po.src="https://apis.google.com/js/plusone.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(po,s)})();
+
+ 		$.getScript('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', function() {});
+ 	},2);
+    });
+  function shww(txt,id){
+	
+	$('.'+id).find('.frmhd').html(txt).fadeIn("slow");
+	$('.'+id).find('.frmhd').css("font-size","19px");
+	$('.'+id).find('.frmhd').css("font-weight","normal");
+	$('.'+id).find('.frmhd').css("line-height","19px");    
+
+    }
+
+
+    </script>
+	</body>
+</html>
+
