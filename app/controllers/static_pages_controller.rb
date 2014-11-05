@@ -6,6 +6,8 @@ class StaticPagesController < ApplicationController
   end
 
   def new_user_path
+  end
 
+  def user_new
   end
 end

@@ -1,18 +1,25 @@
 <div class="container">
-  <div class="row">
-    <h3>Users</h3>
-    <div class="column">
-      <table class="table">
-        <tbody>
-          <% @users.each do |user| %>
-            <tr>
-              <%= render user %>
-            </tr>
-          <% end %>
-        </tbody>
-      </table>
-    </div>
-  </div>
+  <% if user_signed_in? %>
+      <% if current_user.location.blank? %>
+          <%= render 'users/form' %>
+      <% else %>
+
+      <div class="row">
+        <h3>Users</h3>
+        <div class="column">
+          <table class="table">
+            <tbody>
+              <% @users.each do |user| %>
+                <tr>
+                  <%= render user %>
+                </tr>
+              <% end %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <% end %>
+  <% end %>
 </div>
 
 <!-- -------------------------------------------------------------------------------------------------------- -->

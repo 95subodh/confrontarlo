@@ -7,6 +7,8 @@ Rails.application.routes.draw do
 
   get 'static_pages/help'
 
+  get 'static_pages/user_new'
+
   resources :users
   root to: 'visitors#index'
   get '/auth/google_oauth2/callback' => 'sessions#create'
@@ -15,5 +17,6 @@ Rails.application.routes.draw do
   get '/auth/failure' => 'sessions#failure'
   get '/about' => 'static_pages#about'
   get '/help' => 'static_pages#help'
+
 
 end
