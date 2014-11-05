@@ -16,9 +16,9 @@
 /vendor/ruby/
 
 # minimal Rails specific artifacts
-db/*.sqlite3
-/db/*.sqlite3-journal
-/log/*
+#db/*.sqlite3
+#/db/*.sqlite3-journal
+#/log/*
 /tmp/*
 
 # various artifacts
@@ -27,12 +27,12 @@ db/*.sqlite3
 *.sassc
 .redcar/
 .sass-cache
-/config/config.yml
-/config/database.yml
+#/config/config.yml
+#/config/database.yml
 /coverage.data
 /coverage/
 /db/*.javadb/
-/db/*.sqlite3
+#/db/*.sqlite3
 /doc/api/
 /doc/app/
 /doc/features.html
