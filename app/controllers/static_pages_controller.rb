@@ -10,4 +10,7 @@ class StaticPagesController < ApplicationController
 
   def user_new
   end
+
+  def profile
+  end
 end
