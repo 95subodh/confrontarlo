@@ -4,4 +4,8 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+
+  def new_user_path
+
+  end
 end

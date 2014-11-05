@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'static_pages/new_user'
+
   resources :products
 
   get 'static_pages/about'
