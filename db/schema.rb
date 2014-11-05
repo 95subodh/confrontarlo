@@ -11,7 +11,36 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141105170509) do
+ActiveRecord::Schema.define(version: 20141105191351) do
+
+  create_table "products", force: true do |t|
+    t.string   "name"
+    t.string   "brand"
+    t.integer  "price"
+    t.text     "description"
+    t.integer  "rating"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "user_id"
+  end
+
+  create_table "productsreviews", force: true do |t|
+    t.string   "title"
+    t.text     "description"
+    t.integer  "rating"
+    t.integer  "product_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "reviews", force: true do |t|
+    t.string   "title"
+    t.text     "description"
+    t.integer  "rating"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "user_id"
+  end
 
   create_table "users", force: true do |t|
     t.string   "name"
@@ -19,6 +48,12 @@ ActiveRecord::Schema.define(version: 20141105170509) do
     t.string   "uid"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "email"
+    t.text     "location"
+    t.string   "company_name"
+    t.boolean  "marketer"
+    t.integer  "rating"
+    t.string   "image_url"
   end
 
 end
