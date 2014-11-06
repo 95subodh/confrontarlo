@@ -1,0 +1,5 @@
+<%= simple_form_for :review, :url => {:action => :create_review} do |f| %>
+    <%= f.input :title, placeholder: 'Title' %>
+    <%= f.input :description, placeholder: 'Description' %>
+    <%= f.button :submit, name: "product_id", value: @product.id %>
+<%end%>

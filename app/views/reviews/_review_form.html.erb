@@ -1,5 +1,5 @@
 <%= simple_form_for :review, :url => {:action => :create} do |f| %>
     <%= f.input :title, placeholder: 'Title' %>
     <%= f.input :description, placeholder: 'Description' %>
-    <%= f.button :submit %>
+    <%= f.button :submit, hint: "Submit", name: "user_id", value: @user.id %>
 <%end%>

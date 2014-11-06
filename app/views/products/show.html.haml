@@ -24,3 +24,20 @@
 = link_to 'Edit', edit_product_path(@product)
 \|
 = link_to 'Back', products_path
+
+
+= render 'reviews/product_review_form'
+
+
+%h3
+  %b Reviews
+
+- @productsreview.each do |productreview|
+  %p
+  - if productreview.product_id == @product.id
+    %h4
+      %b Title:
+      = productreview.title
+    %p
+      %b Description:
+      = productreview.description

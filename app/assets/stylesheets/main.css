@@ -11,3 +11,11 @@ form
     padding-top: 50px;
     padding-left: 520px;
 }
+
+.user_reviews {
+    width:280px; margin:0 auto;
+}
+
+.product_reviews {
+    width:280px; margin:0 auto;
+}

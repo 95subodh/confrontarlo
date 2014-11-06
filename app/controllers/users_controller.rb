@@ -7,11 +7,13 @@ class UsersController < ApplicationController
     @user = current_user
     @review = Reviews.new
     @reviews = Reviews.all
+    @products = Product.all
   end
 
   def show
     @user = User.find(params[:id])
     @reviews = Reviews.all
+    @products = Product.all
   end
 
   def update
@@ -27,7 +29,7 @@ class UsersController < ApplicationController
 
   def create
     @review = Reviews.new
-    @user = current_user
+    @user = User.find(params[:user_id])
     if @review.update_attribute(:title, params[:review][:title])
       if @review.update_attribute(:description, params[:review][:description])
         if @review.update_attribute(:user_id, @user.id)

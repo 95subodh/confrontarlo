@@ -1,3 +1,5 @@
+- render "products/search_form"
+
 %h1 Listing products
 
 %table
@@ -24,4 +26,5 @@
 
 %br
 
-= link_to 'New Product', new_product_path
+- if user_signed_in?
+  = link_to 'New Product', new_product_path

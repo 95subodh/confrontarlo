@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   get 'static_pages/new_user'
 
   resources :products
+  post 'products/create_review' => 'products#create_review'
 
   get 'static_pages/about'
 

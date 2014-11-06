@@ -11,3 +11,7 @@
     .collapse.navbar-collapse
       %ul.nav.navbar-nav
         = render 'layouts/navigation_links'
+    .search_bar
+      - form_tag(products_path, :method => "get", id: "search-form") do
+        = text_field_tag :search, params[:search], placeholder: "Search  Products"
+        = submit_tag "Search", :name => nil

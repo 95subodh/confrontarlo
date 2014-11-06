@@ -6,18 +6,28 @@
     <p><strong>Company Name:</strong> <%= @user.company_name if @user.company_name %></p>
 </div>
 
-
-
 <div class="user_review">
   <%= render "reviews/review_form" %>
 </div>
 
-<div class="reviews">
-  <h3>Reviews</h3>
-  </p><% @reviews.each do |review| %>
+<div class="user_reviews">
+  <h3 class="">Reviews</h3>
+  <% @reviews.each do |review| %>
     <% if review.user_id == @user.id%>
-        <h4> <%= review.title %></h5>
-        <p><%= review.description %></p>
+        <h4> Title: <%= review.title %></h5>
+        <p> Description: <%= review.description %></p>
     <%end%>
   <%end%>
 </div>
+
+<div class="product_reviews">
+  <h3>Products</h3>
+  <% @products.each do |product| %>
+    <% if product.user_id == @user.id %>
+      <h4> Product Name: <%= product.name%></h4>
+      <p> Price: <%= product.price %></p>
+      <p> Brand: <%= product.brand %></p>
+    <%end%>
+  <%end%>
+</div>
+
