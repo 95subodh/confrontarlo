@@ -1,8 +1,9 @@
 <%= simple_form_for @user do |f| %>
-    <%= f.input :name %>
-    <%= f.input :location %>
-    <%= f.input :email %>
-    <%= f.input :company_name %>
+    <%= f.error_notification %>
+    <%= f.input :name, placeholder: 'Name' %>
+    <%= f.input :location , placeholder: 'Location'%>
+    <%= f.input :email, placeholder: 'Email'%>
+    <%= f.input :company_name, placeholder: 'Company Name' %>
     <%= f.button :submit %>
 <%end%>
 

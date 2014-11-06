@@ -1,3 +1,103 @@
+<!--
 <h3>Welcome</h3>
 <p><%= link_to 'Users:', users_path %> <%= User.count %> registered</p>
+-->
 
+<ul class="rig columns-3" style="padding-top: 50px;">
+  <li>
+    <img src="assets/jackets.jpg" />
+    <h5>Jackets</h5>
+  </li>
+  <li>
+    <img src="assets/shoes.jpg" />
+    <h5>Shoes</h5>
+  </li>
+  <li>
+    <img src="assets/bags.jpg" />
+    <h5>Bags</h5>
+  </li>
+  <li>
+    <img src="assets/shirts.jpg" />
+    <h5>Shirts</h5>
+  </li>
+  <li>
+    <img src="assets/caps.jpg" />
+    <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</h5>
+  </li>
+  <li>
+    <img src="assets/girls.jpg" />
+    <h5>Girls Wear</h5>
+  </li>
+  <li>
+    <img src="assets/one.jpg" />
+    <h5>All In Ones</h5>
+  </li>
+  <li>
+    <img src="assets/winter.jpg" />
+    <h5>Winter Wear</h5>
+  </li>
+</ul>
+
+<style>
+    ul.rig {
+        list-style: none;
+        font-size: 0px;
+        margin-left: -2.5%; /* should match li left margin */
+    }
+    ul.rig li {
+        display: inline-block;
+        padding: 10px;
+        margin: 0 0 2.5% 2.5%;
+        background: #fff;
+        border: 1px solid #ddd;
+        font-size: 16px;
+        font-size: 1rem;
+        vertical-align: top;
+        box-shadow: 0 0 5px #ddd;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+    ul.rig li img {
+        max-width: 100%;
+        height: auto;
+        margin: 0 0 10px;
+    }
+    ul.rig li h3 {
+        margin: 0 0 5px;
+    }
+    ul.rig li p {
+        font-size: .9em;
+        line-height: 1.5em;
+        color: #999;
+    }
+    /* class for 2 columns */
+    ul.rig.columns-2 li {
+        width: 47.5%; /* this value + 2.5 should = 50% */
+    }
+    /* class for 3 columns */
+    ul.rig.columns-3 li {
+        width: 20.83%; /* this value + 2.5 should = 33% */
+    }
+    /* class for 4 columns */
+    ul.rig.columns-4 li {
+        width: 22.5%; /* this value + 2.5 should = 25% */
+    }
+
+    @media (max-width: 480px) {
+        ul.grid-nav li {
+            display: block;
+            margin: 0 0 5px;
+        }
+        ul.grid-nav li a {
+            display: block;
+        }
+        ul.rig {
+            margin-left: 0;
+        }
+        ul.rig li {
+            width: 100% !important; /* over-ride all li styles */
+            margin: 0 0 20px;
+        }
+    }
+</style>

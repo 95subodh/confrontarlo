@@ -11,6 +11,14 @@ Rails.application.routes.draw do
 
   get 'static_pages/profile'
 
+  get 'static_pages/index'
+
+  get 'static_pages/ping'
+
+  get 'static_pages/part1'
+
+  get 'static_pages/part2'
+
   resources :users
   root to: 'visitors#index'
   get '/auth/google_oauth2/callback' => 'sessions#create'

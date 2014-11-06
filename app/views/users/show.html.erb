@@ -1,3 +1,11 @@
-<h3>User</h3>
-<p>Name: <%= @user.name if @user.name %></p>
-<p>Email: <%= @user.email if @user.email %></p>
+<img style="width: 250px;" src="/assets/missing.png"/>
+<div class="user_details">
+    <p ><strong>Name:</strong>  <%= @user.name if @user.name %></p>
+    <p><strong>Email:</strong> <%= @user.email if @user.email %></p>
+    <p><strong>Location:</strong> <%= @user.location if @user.location %></p>
+    <p><strong>Company Name:</strong> <%= @user.company_name if @user.company_name %></p>
+
+</div>
+
+<div class="user_review">
+</div>

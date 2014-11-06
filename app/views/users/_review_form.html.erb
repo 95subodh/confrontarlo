@@ -1,0 +1,6 @@
+<%= simple_form for @review do |f| %>
+    <%= f.error_notifications %>
+    <%= f.input :title, placeholder: 'Title' %>
+    <%= f.input :description, placeholder: 'Description' %>
+    <%= f.button :submit %>
+<%end%>

@@ -1,7 +1,7 @@
 <div class="container">
   <% if user_signed_in? %>
       <% if current_user.location.blank? %>
-          <%= render 'static_pages/profile' %>
+          <%= render 'users/form' %>
       <% else %>
 
       <div class="row">

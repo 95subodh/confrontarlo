@@ -13,4 +13,13 @@ class StaticPagesController < ApplicationController
 
   def profile
   end
+
+  def ping
+  end
+
+  def part1
+  end
+
+  def part2
+  end
 end
