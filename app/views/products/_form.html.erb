@@ -1,0 +1,8 @@
+<%= simple_form_for @product do |f| %>
+    <%= f.error_notification %>
+    <%= f.input :name, placeholder: 'Product Name' %>
+    <%= f.input :brand, placeholder: 'Brand Name' %>
+    <%= f.input :price, placeholder: 'Price' %>
+    <%= f.input :description, placeholder: 'Description' %>
+    <%= f.button :submit %>
+<% end %>

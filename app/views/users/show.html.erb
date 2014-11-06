@@ -4,8 +4,20 @@
     <p><strong>Email:</strong> <%= @user.email if @user.email %></p>
     <p><strong>Location:</strong> <%= @user.location if @user.location %></p>
     <p><strong>Company Name:</strong> <%= @user.company_name if @user.company_name %></p>
-
 </div>
 
+
+
 <div class="user_review">
+  <%= render "reviews/review_form" %>
+</div>
+
+<div class="reviews">
+  <h3>Reviews</h3>
+  </p><% @reviews.each do |review| %>
+    <% if review.user_id == @user.id%>
+        <h4> <%= review.title %></h5>
+        <p><%= review.description %></p>
+    <%end%>
+  <%end%>
 </div>
